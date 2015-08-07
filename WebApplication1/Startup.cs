@@ -13,6 +13,7 @@ namespace WebApplication1
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //testing aja
         }
     }
 }
